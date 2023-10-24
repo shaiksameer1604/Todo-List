@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+
+.button-complete{
+  color:#27cd32;
+}
+
+.button-edit{
+  color:#c5b208;
+  margin-right: 10px;
+}
+.button-delete{
+  color:rgb(230, 32, 32);
+  margin-right: 10px;
+
+}
+
+
+.button-save{
+  color:rgb(32, 134, 230);
+}
+
+.brand{
+  color:white;
+}
+
+body {
+  background-image: url('/src/bg-image.jpg');
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+}
+
+
+p{
+  font-size: large;
+  font-weight: 450;
+}
+
+.custom-cursor{
+  cursor: pointer;
+}
